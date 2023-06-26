@@ -1,4 +1,4 @@
-package com.jimin.book;
+package com.jimin.book.springboot;
 
 public class Main {
     public static void main(String[] args) {
