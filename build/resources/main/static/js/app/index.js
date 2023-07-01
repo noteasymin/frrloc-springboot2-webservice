@@ -23,10 +23,8 @@ var main = {
             window.location.href = '/';
         }).fail(function (error) {
             alert(JSON.stringify(error));
-        })
-
-
+        });
     }
 };
 
-index.init()
+main.init()
